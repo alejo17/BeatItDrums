@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/KinectForWindows_UnityPro_2.0.1410/KinectView/MainScene.unity
+  isLoaded: 1
+  isActive: 1
